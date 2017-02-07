@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Test</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnValidade">Validate</string>
+</resources>
